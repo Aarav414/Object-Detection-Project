@@ -1,0 +1,24 @@
+#title {
+    width: 100%;
+    margin: 0px;
+}
+
+body {
+    background-size: cover;
+}
+
+a {
+    font-size: 20px !important;
+    width: 400px;
+    border-radius: 30px !important;
+    background-color: white;
+    color: black;
+}
+#bed{
+    width: 800;
+    height: 730;
+}
+#desk{
+    width:800;
+    height: 730;
+}
